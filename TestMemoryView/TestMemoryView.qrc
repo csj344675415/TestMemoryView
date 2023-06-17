@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/TestMemoryView"/>
+    <qresource prefix="/">
+        <file>MyWidgets/WinInfoWidgets/Resources/drag.ico</file>
+        <file>MyWidgets/WinInfoWidgets/Resources/drag2.ico</file>
+        <file>MyWidgets/WinInfoWidgets/Resources/eye.cur</file>
+        <file>MyWidgets/WinInfoWidgets/Resources/eye.ico</file>
+        <file>MyWidgets/MemoryWidgets/Resources/monitor system.ico</file>
+        <file>MyWidgets/MemoryWidgets/Resources/monitor system.png</file>
+    </qresource>
+</RCC>
