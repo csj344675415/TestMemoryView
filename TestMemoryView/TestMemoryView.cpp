@@ -1,6 +1,5 @@
 #include "TestMemoryView.h"
 
-
 #include "WinInfoWidgets\WinInfo.h"
 #include "MemoryWidgets\MemoryWidget.h"
 
