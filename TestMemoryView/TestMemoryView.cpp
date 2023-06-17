@@ -52,7 +52,7 @@ void TestMemoryView::slot_pushButton()
 		pMemoryWidget = new MemoryWidget(nullptr);
 	}
 
-	//pMemoryWidget->show(m_pid);
+	pMemoryWidget->show(m_pid);
 }
 
 #include <QTextCodec>
